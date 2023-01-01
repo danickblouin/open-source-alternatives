@@ -69,6 +69,8 @@
 
 ### Browsers
 - Bromite (Android)
+- Librewolf
+- PrivacyTests.org to check browser's privacy
 
 ### VPN
 - Ivpn
@@ -98,3 +100,27 @@
 - Nextcloud (on own server)
 - Owncloud (on own server)
 
+### Search Engine
+- Duckduckgo
+- Qwant
+- Startpage
+- Searx
+
+### Extensions
+- Disconnect
+- Ad Nauseam
+- Privacy Badger
+- Ublock
+- Ghostery
+
+### DNS
+- Rethink DNS
+- Next DNS
+- Quad 9
+
+### Password Testing
+- CNIL
+
+### 2FA
+- FreeOTP+
+- Aegis Authentificator
