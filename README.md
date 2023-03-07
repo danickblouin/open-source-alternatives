@@ -4,14 +4,14 @@
 - Mac Gatekeeper
 - ClamAV https://www.clamav.net/
 
-### Alias pour email
+### Alias for email
 - SimpleLogin
 
-### Delete les données des sites
+### Delete website data
 - JustDeleteMe
 - JustGetMyData
 
-### Mot de passe
+### Password
 - KeePass
 - Bitwarden
 
@@ -19,24 +19,24 @@
 - Jitsi Meet
 - Jami
 
-### Formulaire
+### Forms
 - Services Framasoft
 - Framadate
 
-### Logiciels de bureautique
+### Office software
 - LibreOffice
 - OpenOffice
 
-### Transfert de données
+### Data transfer
 - Smash
 - SwissTransfer
 
-### Prise de note
+### Note taking
 - Joplin
 
 ### Apps to navigate through social media
 - Individious
-- Newpipe
+- NewPipe
 - Skytube
 - YouTube Vanced
 - Fritter
@@ -124,3 +124,12 @@
 ### 2FA
 - FreeOTP+
 - Aegis Authentificator
+
+### YouTube
+- FreeTube
+- Invidious
+- NewPipe
+
+### Keyboards
+- OpenBoard
+- AnySoftKeyboard
